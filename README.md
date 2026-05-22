@@ -1,7 +1,14 @@
-- 👋 Hi, I’m Lee Ye Ji
-- 👀 I’m interested in 사용자 친화적 Front-end 개발 ...
-- 🌱 I’m currently learning React.js and 
-will study other Front-end/Back-end tools ex) Next.js, Node.js etc...
+Python을 주로 사용하는 Back-end 개발자입니다.
+
+안녕하세요,
+Python을 주 언어로 사용하는 웹 백엔드 개발자 이예지입니다.
+
+[실무 경험]
+Flask 기반 웹서비스를 운영하며 이슈 디버깅, 성능 개선, 서비스 안정화를 중심으로 업무를 수행했습니다.
+Docker 환경에서 서비스 및 ELK 스택을 구성하고 폐쇄망 환경에서의 배포 효율 개선을 수행했습니다.
+Celery + Redis 기반 비동기 처리, DB Migration, 쿼리 최적화를 통해 서비스 성능을 개선했습니다.
+
+최근에는 평소 자주 이용하는 서비스(ex. AI 캐릭터 챗봇, AI 영어 회화 등)들을 구현하는 작업을 위주로 하고 있습니다.
 
 - 📫 How to reach me ...
 yejee7@gmail.com
